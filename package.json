@@ -1,0 +1,21 @@
+{
+  "name": "phpcs-rules",
+  "version": "0.1.0",
+  "description": "Oneserv phpcs rules.",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oneserv/phpcs-rules.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oneserv/phpcs-rules/issues"
+  },
+  "homepage": "https://github.com/oneserv/phpcs-rules#readme",
+  "dependencies": {
+    "standard-version": "^9.2.0"
+  }
+}

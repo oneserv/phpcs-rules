@@ -1,0 +1,22 @@
+{
+    "name": "oneserv/phpcs-rules",
+    "description": "Oneserv phpcs rules.",
+    "keywords": ["phpcs","ruleset"],
+    "homepage": "https://github.com/oneserv/phpcs-rules",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timon Heuser",
+            "email": "heuser@bueromoebel-experte.de",
+            "homepage": "https://www.bueromoebel-experte.de/",
+            "role": "Author"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/oneserv/phpcs-rules/issues"
+    },
+    "require": {
+        "squizlabs/php_codesniffer": "^3.6"
+    }
+}
