@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/oneserv/phpcs-rules#readme",
   "dependencies": {
-    "standard-version": "^9.2.0"
+    "standard-version": "^9.3.0"
   }
 }
