@@ -1,7 +1,7 @@
 {
-  "name": "phpcs-rules",
+  "name": "@oneserv/phpcs-rules",
   "version": "1.0.2",
-  "description": "Oneserv phpcs rules.",
+  "description": "An opinionated ruleset for phpcs.",
   "scripts": {
     "release": "standard-version"
   },
@@ -9,7 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/oneserv/phpcs-rules.git"
   },
-  "author": "",
+  "author": {
+    "name": "Timon Heuser",
+    "email": "heuser@bueromoebel-experte.de",
+    "url": "https://github.com/oneserv"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/oneserv/phpcs-rules/issues"
