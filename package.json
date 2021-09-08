@@ -15,7 +15,7 @@
     "url": "https://github.com/oneserv/phpcs-rules/issues"
   },
   "homepage": "https://github.com/oneserv/phpcs-rules#readme",
-  "dependencies": {
+  "devDependencies": {
     "standard-version": "^9.3.1"
   }
 }
