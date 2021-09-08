@@ -1,6 +1,6 @@
 {
   "name": "@oneserv/phpcs-rules",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "An opinionated ruleset for phpcs.",
   "scripts": {
     "release": "standard-version"
