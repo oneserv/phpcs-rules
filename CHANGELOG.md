@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/oneserv/phpcs-rules/compare/v1.3.0...v1.4.0) (2021-09-10)
+
+
+### Changes
+
+* exclude Generic.Files.LineEndings.InvalidEOLChar ([bd7044a](https://github.com/oneserv/phpcs-rules/commit/bd7044a32609fb5b23bf4f161d90a9a1e5ced4f4))
+
 ## [1.3.0](https://github.com/oneserv/phpcs-rules/compare/v1.2.0...v1.3.0) (2021-09-10)
 
 
