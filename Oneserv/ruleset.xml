@@ -42,6 +42,7 @@
         <exclude name="Generic.Files.EndFileNoNewline"/>
         <exclude name="Generic.Files.ExecutableFile"/>
         <exclude name="Generic.Files.LowercasedFilename"/>
+        <exclude name="Generic.Files.LineEndings.InvalidEOLChar"/>
     </rule>
 
     <!-- Formatting rules -->
