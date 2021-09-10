@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/oneserv/phpcs-rules/compare/v1.2.0...v1.3.0) (2021-09-10)
+
+
+### Features
+
+* add php8 support ([#3](https://github.com/oneserv/phpcs-rules/issues/3)) ([6b59dcb](https://github.com/oneserv/phpcs-rules/commit/6b59dcb62cd82ca38c0f9d923be6f8d668d976f7))
+
 ## [1.2.0](https://github.com/oneserv/phpcs-rules/compare/v1.1.0...v1.2.0) (2021-09-08)
 
 
