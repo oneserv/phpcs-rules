@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/oneserv/phpcs-rules/compare/v1.4.0...v1.4.1) (2021-10-11)
+
+Only contains dependencies updates.
+
 ## [1.4.0](https://github.com/oneserv/phpcs-rules/compare/v1.3.0...v1.4.0) (2021-09-10)
 
 
