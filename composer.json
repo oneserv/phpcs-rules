@@ -23,7 +23,7 @@
     },
     "require-dev": {
         "roave/security-advisories": "@dev",
-        "madewithlove/license-checker": "^0.10.0"
+        "madewithlove/license-checker": "1.1"
     },
     "scripts": {
         "check-license": "vendor/bin/license-checker check"
