@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/oneserv/phpcs-rules/compare/v1.4.2...v2.0.0) (2022-06-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** set minimum required codesniffer version to 3.7
+
+### Features
+
+* **deps:** set minimum required codesniffer version to 3.7 ([1597bcf](https://github.com/oneserv/phpcs-rules/commit/1597bcf1e432543d7e75a2e3a89d4442e684f2ec))
+
 ### [1.4.2](https://github.com/oneserv/phpcs-rules/compare/v1.4.0...v1.4.2) (2021-11-01)
 
 Only contains dependencies updates.
