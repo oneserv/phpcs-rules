@@ -126,5 +126,5 @@
     </rule>
 
     <rule ref="PHPCompatibility"/>
-    <config name="testVersion" value="7.4-"/>
+    <config name="testVersion" value="8.1-"/>
 </ruleset>
