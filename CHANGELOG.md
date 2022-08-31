@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/oneserv/phpcs-rules/compare/v2.0.0...v3.0.0) (2022-08-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* **general:** update to php 8
+
+### Features
+
+* **general:** update to php 8 ([7121584](https://github.com/oneserv/phpcs-rules/commit/71215845f693cfecce16917c0695550d742ce45c))
+
 ## [2.0.0](https://github.com/oneserv/phpcs-rules/compare/v1.4.2...v2.0.0) (2022-06-22)
 
 
