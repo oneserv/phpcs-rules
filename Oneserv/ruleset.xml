@@ -111,19 +111,7 @@
 
     <!-- Squiz rules -->
     <!-- Commenting rules -->
-    <rule ref="Squiz.Commenting.FunctionComment">
-        <properties>
-            <property name="skipIfInheritdoc" value="true"/>
-        </properties>
-        <exclude name="Squiz.Commenting.FunctionComment.InvalidReturn"/>
-        <exclude name="Squiz.Commenting.FunctionComment.MissingParamComment"/>
-        <exclude name="Squiz.Commenting.FunctionComment.MissingParamTag"/>
-        <exclude name="Squiz.Commenting.FunctionComment.MissingReturn"/>
-        <exclude name="Squiz.Commenting.FunctionComment.SpacingAfterParamType"/>
-        <exclude name="Squiz.Commenting.FunctionComment.SpacingAfterParamName"/>
-        <exclude name="Squiz.Commenting.FunctionComment.EmptyThrows"/>
-        <exclude name="Squiz.Commenting.FunctionComment.IncorrectParamVarName"/>
-    </rule>
+    <exclude name="Squiz.Commenting.FunctionComment"/>
 
     <rule ref="PHPCompatibility"/>
     <config name="testVersion" value="8.1-"/>
