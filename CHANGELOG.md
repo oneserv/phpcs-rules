@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/oneserv/phpcs-rules/compare/v3.0.0...v3.1.0) (2022-09-01)
+
+
+### Changes
+
+* **general:** exclude Squiz.Commenting.FunctionComment ([121d092](https://github.com/oneserv/phpcs-rules/commit/121d092806b3e8765e4084bc7f0fad783802d801))
+
 ## [3.0.0](https://github.com/oneserv/phpcs-rules/compare/v2.0.0...v3.0.0) (2022-08-31)
 
 
