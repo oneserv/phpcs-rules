@@ -11,3 +11,5 @@ An opinionated ruleset for phpcs.
 
 Installation via composer: \
 ``composer require --dev oneserv/phpcs-rules``
+
+# wem gehört das repo?
